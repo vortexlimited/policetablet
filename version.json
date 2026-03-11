@@ -1,8 +1,8 @@
 {
-    "version": "1.0",
-    "message": "New features: Fleet Stock images, notification system, wing-linked garage",
-    "download": "https://vxdev.shop/package/7273844"
-
+  "version": "1.2.0",
+  "message": "Added MDT search, fixed report bug, improved performance",
+  "download": "https://vxdev.shop/package/7273844"
 }
+
 
 
