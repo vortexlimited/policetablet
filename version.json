@@ -1,8 +1,5 @@
 {
   "version": "1.2.0",
-  "message": "Added MDT search, fixed report bug, improved performance",
+  "message": "Update v1.2.0\n• Added MDT search\n• Added dispatch alerts\n• Fixed report bug",
   "download": "https://vxdev.shop/package/7273844"
 }
-
-
-
