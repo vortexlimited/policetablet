@@ -1,6 +1,10 @@
 {
-  "version": "1.1.0",
-  "message": "Update v1.1.0\n• Added MDT search\n• Added dispatch alerts\n• Fixed report bug",
-  "download": "https://vxdev.shop/package/7273844"
+  "version": "1.2.0",
+  "changelog": [
+    "Added MDT search system",
+    "Added notification system",
+    "Fixed garage bug"
+  ],
+  "download": "https://vxdev.shop/package/7273844",
+  "discord": "https://discord.gg/vxdev"
 }
-
